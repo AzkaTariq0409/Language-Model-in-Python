@@ -1,0 +1,69 @@
+
+The national unemployment rate is defined as the percentage of unemployed workers in the total labor force. It is widely recognized as a key indicator of the performance of a country's labor market. As a closely watched economic indicator, the unemployment rate attracts a lot of media attention, especially during recessions and challenging economic times. This is because the unemployment rate doesn't just impact those individuals who are jobless–the level and persistence of the factors of unemployment have wide-ranging impacts across the broader economy.
+
+According to the U.S. Bureau of Labor Statistics (BLS), when workers are unemployed, their families lose wages, and the nation as a whole loses their contribution to the economy in terms of the goods or services that could have been produced.
+
+Unemployed workers also lose their purchasing power, which can lead to unemployment for other workers, creating a cascading effect that ripples through the economy. In this way, unemployment even impacts those who are still employed.
+
+When companies are trying to cut costs, they often reduce their workforce as one of their cost-saving measures. Those workers who are left to do more work after a company lays off part of their staff are not likely to receive any additional compensation for the extra hours they are working.
+
+Unemployment can also have a negative effect on the mental state of those who are still employed. They may become more concerned about losing their jobs or be hesitant to search for other employment because they have a false belief that they "are lucky" to be employed at all. They may even feel guilty about having a job when their co-workers are out of work. 
+
+More broadly, high unemployment is also problematic for the U.S. economy. Over 70% of what the U.S. economy produces is purchased by domestic consumers through their personal consumption habits. Unemployed workers consume far less than those with a steady income because they have less discretionary income.
+
+In order to understand the causes and the remedy for high levels of unemployment, policymakers seek information on different aspects of unemployment. Statistics about the number of unemployed people, the period for which they have been unemployed, their skill levels, the trend in unemployment, and regional disparities in unemployment are periodically made available for policymakers so that they can interpret them and hopefully make better-informed decisions about steering the economy and countering unemployment.
+
+One misconception about the unemployment rate is that it is derived from the number of people filing claims for unemployment insurance (UI) benefits. But the number of UI claimants does not provide accurate information on the extent of unemployment. This is because people may still be jobless after their benefits run out, while other applicants for UI benefits may not be eligible for benefits or may not even have applied for them.
+
+Tracking every unemployed person monthly would also be very expensive, time-consuming, and impractical. Therefore, the U.S. government conducts a sample survey—the Current Population Survey (CPS)—to measure the extent of unemployment in the nation.
+
+The U.S. has conducted the CPS monthly since 1940. About 60,000 households, or approximately 110,000 individuals, are in the CPS sample survey, selected to be representative of the entire U.S. population. A typical household included in the sample survey is interviewed monthly for four consecutive months and then again for the same four calendar months a year later.
+
+The survey is carried out by trained and experienced Census Bureau employees. They interview persons in the 60,000 sample households for information on both the labor force activities or non-labor force status of all of their household members during the survey reference period (generally the week that includes the twelfth of the month).
+
+When a sample survey is used, there is a chance that the sample estimates may differ from the actual population values. According to the BLS, there is a 90% chance that the monthly unemployment estimate change from the sample is within +/- 110,000 of the figure obtainable from a total census of the entire population.
+
+The basic definitions used by the BLS in compiling labor statistics are quite straightforward:
+
+The sum of employed and unemployed people makes up the labor force. The remainder consists of people who have no jobs and are not looking for any. These typically include students, retirees, and homemakers.
+
+It's important to note that labor force measures, such as the unemployment rate, are based on the civilian non-institutional U.S. population ages 16 and older. Labor force measures exclude persons who are below age 16, people confined to institutions–such as nursing homes and prisons–and all personnel on active duty in the Armed Forces.﻿﻿
+
+While the basic tenets that determine whether or not an individual is employed are simple, there are numerous situations that can make it difficult to ascertain the correct category to which a person belongs.
+
+People are considered employed if they did any work for pay or profit during the survey week. People are also counted as employed if they have a job at which they did not work during the survey week, for reasons such as being on vacation, falling ill, doing some personal work, etc.
+
+People are classified as unemployed if they fulfill the following three criteria:
+
+The official unemployment rate that is widely quoted in the media and other news sources in the U.S. is based on the above definition of unemployment.
+
+The criteria for being considered unemployed are rigorous and well-defined. For example, actively looking for work includes measures such as contacting prospective employers, attending job interviews, visiting an employment agency, sending out resumes, and responding to job advertisements. Therefore, this excludes passive methods of job search, such as attending a training course or scanning the job advertisements in newspapers.
+
+As such, the total unemployment figure includes people who have lost their jobs, as well as persons who have left their jobs to look for other employment, temporary workers whose jobs have ended, individuals looking for their first jobs, and experienced workers returning to the labor force.
+
+The official unemployment rate has often been cited as being too restrictive and not representative of the true breadth of labor market problems. Some analysts contend that the official unemployment measure is too broad, and they would like a more narrowly targeted measure. However, they are the minority. This group is outnumbered by those who believe the unemployment rate is too narrowly defined.
+
+In 1976, the BLS, under the direction of Commissioner Julius Shiskin, introduced a range of labor market measures, entitled U-1 through U-7. In 1995, following the redesign of the CPS in the previous year, the BLS introduced a new range of alternative measures of labor underutilization. Regular publication of these measures commenced with the February 1996 Employment Situation report.
+
+The measures range from U-1, which is the most restrictive since it only includes those people who were jobless for at least 15 weeks, to U-6, the broadest definition of labor underutilization. The U-3 measure is the official unemployment rate. Measure U-1 and Measure U-2 are more restrictive and therefore lower than U-3, while U-4, U-5, and U-6 are higher than U-3.
+
+The U-6 measure provides the broadest measure of labor underutilization. The BLS defines it as the "total unemployed, plus all persons marginally attached to the labor force, plus total employed part-time for economic reasons, as a percent of the civilian labor force plus all persons marginally attached to the labor force."
+
+Marginally attached workers are defined as persons without jobs who are not currently looking for work (and hence not considered unemployed), but who have demonstrated some degree of labor force attachment. To be included in this category, individuals must indicate they currently want a job, have looked for work in the last 12 months, and are available for work.
+
+One subset of the marginally attached group is called discouraged workers. Discouraged workers are those who are not currently looking for work for these reasons:
+
+The U-6 measure is sometimes referred to as the "real" unemployment rate. Proponents of this measure claim that it represents the true nature of the unemployment problem because it also includes:
+
+Consider the following hypothetical cases as examples of how the official unemployment rate (U-3) understates the magnitude of the labor underutilization problem:
+
+While alternative measures of unemployment, such as the U-6 measure, show very similar movements throughout the business cycle, they differ significantly in magnitude from the official unemployment rate. The strict definition of unemployment under the official U-3 measure may result in understating the magnitude of the actual unemployment situation.
+
+It is thus advisable to look beyond the headline U-3 unemployment number as it may not convey the whole story. The U-6 measure, by being the least restrictive and therefore the highest unemployment rate, may provide a truer picture of the degree of labor underutilization.
+Bureau of Labor Statistics. "How the Government Measures Unemployment," Page 1. Accessed July 27, 2020.Bureau of Labor Statistics. "Consumer Spending and U.S. Employment From the 2007–2009 Recession Through 2022." Accessed July 27, 2020.Bureau of Labor Statistics. "Labor Force Statistics From the Current Population Survey." Accessed July 27, 2020.Bureau of Labor Statistics. "How the Government Measures Unemployment." Accessed July 27, 2020.Census Bureau. "Collecting Data." Accessed July 27, 2020.Bureau of Labor Statistics. "Employment Situation Technical Note." Accessed July 27, 2020.Bureau of Labor Statistics. "Concepts and Definitions." Accessed July 27, 2020.Bureau of Labor Statistics. "The Unemployment Rate and Beyond: Alternative Measures of Labor Underutilization," Page 2. Accessed July 27, 2020.Bureau of Labor Statistics. "The CPS After the Redesign: Refocusing the Economic Lens," Page 2. Accessed July 27, 2020.Bureau of Labor Statistics. "Table A-15. Alternative Measures of Labor Underutilization." Accessed July 27, 2020.
+Economics
+Macroeconomics
+Macroeconomics
+Macroeconomics
+Macroeconomics
+Macroeconomics

@@ -1,0 +1,120 @@
+Jump down to: Teaching these ideas Find activities Watch a videoa. Sunlight reaching Earth can heat the land, ocean, and atmosphere. Some of that sunlight is reflected back to space by the surface, clouds, or ice. Much of the sunlight that reaches Earth is absorbed and warms the planet.
+There are 4 more fundamental concepts. See them all...
+Hide
+b. When Earth emits the same amount of energy as it absorbs, its energy budget is in balance, and its average temperature remains stable.c. The tilt of Earth's axis relative to its orbit around the sun results in predictable changes in the duration of daylight and the amount of sunlight received at any latitude throughout a year. These changes cause the annual cycle of seasons and associated temperature changes.d. Gradual changes in Earth's rotation and orbit around the sun change the intensity of sunlight received in our planet's polar and equatorial regions. For at least the last 1 million years, these changes occurred in 100,000-year cycles that produced ice ages and the shorter warm periods between them.e. A significant increase or decrease in the sun's energy output would cause Earth to warm or cool. Satellite measurements taken over the past 30 years show that the sun's energy output has changed only slightly and in both directions. These changes in the sun's energy are thought to be too small to be the cause of the recent warming observed on Earth.The sun warms the planet, drives the hydrologic cycle, and makes life on Earth possible. The amount of sunlight received on Earth's surface is affected by the reflectivity of the surface, the angle of the sun, the output of the sun, and the cyclic variations of Earth's orbit around the sun.The basic science of solar energy and the role it plays for Earth's climate can be understood by middle school students, but the complexities of the Earth's energy balance remains an area of active scientific research. Thus, this topic is both elemental and complex.This principle is related to Energy Literacy Principle 2: Physical processes on Earth are the result of energy flow through the Earth system.Understanding the role of solar radiation in the Earth's climate system can help us grasp important concepts such as:The causes of the seasons.
+	
+
+
+
+
+× 
+
+
+
+This figure shows the tilt of Earth's axis, which causes the seasons. (Note: Distance and diameter NOT to scale.)
+
+Provenance: This image was produced by Rhcastilhos and was contributed to Wikimedia Commons. The author of this image has released it into the public domain.
+Reuse:  This item is in the public domain 	and maybe reused freely without restriction. 
+
+Show brief explanation
+Hide
+        Seasons are caused by the tilt of Earth's axis. The tilted axis means that the northern and southern parts of Earth do not receive equal amounts of solar radiation (energy per unit area). When the southern hemisphere is tilted toward the sun, it is summer in the southern hemisphere and winter in the northern hemisphere. (Principle 1c)
+    
+
+    The reasons ice ages occur. 
+    Show brief explanation
+Hide
+        The ice ages were caused by changes in the distribution of solar radiation received over Earth's surface. The path of Earth's orbit is not constant. Variations in Earth's orbital path causes the solar radiation reaching any point on Earth's surface to change. (Principle 1d)
+    
+     
+    How the amount of energy emitted from the sun (sun's luminosity) changes over time. 
+    Show brief explanation
+Hide
+        The sun's output is not constant. Its luminosity (total energy emitted by the sun) has increased over geologic time, and varies slightly over shorter time scales.
+    
+     
+    Why recent climate warming has not been caused by increases in the sun's energy output. 
+    Show brief explanation
+Hide
+        The sun's energy output has not changed enough over the last decades to account for the increases in temperatures that have been observed during this same time. (Principle 1e)
+    
+     
+    Most forms of energy that humans use are derived from solar energy. 
+    Show brief explanation
+Hide
+        Many forms of energy that humans use ultimately derive from solar radiation, such as food, hydrocarbons (such as oil and natural gas), wind energy, hydroelectric power, and of course, solar energy.
+    
+
+
+
+
+
+
+× 
+
+
+
+Show caption
+HideThis figure shows a 1,000,000-year view of the variations in Earth's orbit (called Milankovitch cycles), and the resulting effect on solar forcing. The bottom curve shows the cycles of recent ice ages.
+
+
+Provenance: This image was produced by Robert A. Rohde from publicly available data, and is incorporated into the Global Warming Art project.
+Reuse:  This item is offered under a Creative Commons Attribution-NonCommercial-ShareAlike license http://creativecommons.org/licenses/by-nc-sa/3.0/ You may reuse this item for non-commercial purposes as long as you provide attribution and offer any derivative works under a similar license. 
+ Throughout most science education programs and standards, the role of the sun in providing energy to the Earth system is included, but often in a disjointed way. The seasons and their importance in driving seasonal weather patterns and animal migration may be taught in primary school and then not revisited for many years, if at all.Moreover, students of all ages, including college students and adults, have difficulty understanding what causes the seasons. In addition to the axial tilt, factors that come into play in people's mental models include the belief that Earth orbits the sun in an elongated elliptical path; confusion about the relative size, motion, and distance of the earth from the sun; how light travels; the length of Earth's revolution around the sun; and even the period of rotation. One strategy to mitigate this common misconception is to ensure that the "reasons for the seasons" are adequately addressed in high school, when students have sufficient background in geometry and physics to grasp the concepts (McCaffrey & Buhr, 2008).
+
+
+
+
+
+× 
+
+
+
+Show caption
+HideThe amount of solar energy received by the Earth has followed the Sun’s natural 11-year cycle of small ups and downs with no net increase since the 1950s. Over the same period, global temperature has risen markedly. It is therefore extremely unlikely that the Sun has caused the observed global temperature warming trend over the past half-century. Image from NASA.
+
+Provenance: Image from NASA, from https://climate.nasa.gov/faq/14/is-the-sun-causing-global-warming/
+Reuse:  This item is in the public domain 	and maybe reused freely without restriction. 
+A persistent misconception is that our recent climate warming is due to changes in the sun's incoming energy, rather than increases of greenhouse emissions. This can be addressed by examining records of solar output and comparing them to global temperature records. The data clearly shows that the sun's irradiance is not correlated with Earth's temperature.Excellent explanations for this can be found at Skeptical Science: Sun and Climate: Moving in Opposite Directions and with a graphic from Bloomberg: What's Really Warming the World? This engaging graph is made with NASA data and model output.Solar radiation is the fundamental energy driving our climate system, and nearly all climatic and biologic processes on Earth are dependent on solar input. Energy from the sun is essential for many processes on Earth including warming of the surface, evaporation, photosynthesis and atmospheric circulation. Thus, examining how the sun fuels different processes on Earth can be a part of many types of science courses. Many of the science concepts relating to this principle can be addressed by encouraging seasonal observations, participating in citizen science programs with students (such as GLOBE), and periodically revisiting the basics of how the amount and intensity of solar energy affects Earth's climate.The ways that the Sun's energy drives the climate system can be taught from a very basic level on upward through the most sophisticated scientific approaches.Integrating Solutions - The science concepts that relate to solar radiation can be expanded to include solar energy engineering and technology, including solar ovens, passive solar design, solar thermal energy and solar electricity. This can help raise awareness for alternatives to the use of fossil fuel and create a forum for discussions about solutions to climate change that our society can adopt.
+
+
+
+
+
+× 
+
+
+
+This figure shows how white ice reflects sunlight while darker ocean water absorbs sunlight. This is called albedo, or reflectivity.
+
+Provenance: Image Credit: NASA
+Reuse:  This item is in the public domain 	and maybe reused freely without restriction. 
+Middle school
+High schoolCollege 
+Search by grade level: middle school high school intro college upper college search all grade levels What's the Sun's Role in Climate Change? - NASA offers an readable yet authoritative look at why solar activity, solar cycles, and sunspots are not related to today's climate warming. NASA has a related post that debunks the myth of an impending ice age.Sun and Climate: Moving in Opposite Directions This page from the Skeptical Science website provides clear answers to common questions and misunderstandings about climate change.What's Really Warming the World? - This animated graphic compares different forcings that are acting on Earth's climate. Climatic changes caused by orbital variation, the sun's luminosity, and volcanic emissions are compared with the effect of greenhouse emissions. The graphic is very engaging and the data is from NASA's Goddard Institute for Space Studies (GISS).McCaffrey & Buhr, 2008: Clarifying Climate Confusion. - Journal article from Physical Geography about common misconceptions in climate science.
+
+  \
+                       \
+                       \
+                         Video about Climate Literacy Principle 1. Ryan Vachon and CLEAN Project Download Climate Principle 1 Video (MP4 Video 319.2MB) Details
+
+
+
+
+
+  
+       
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      supports HTML5 video
+
+ 
+
+X
+
+
+
+       
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      supports HTML5 video
+« Previous Page      Next Page »Citing and Terms of UseMaterial on this page is offered under a 
+                 Creative Commons license  unless otherwise noted below.Show terms of use for text on this page »Show terms of use for media on this page »CLEAN is funded by grants from the National Oceanic and Atmospheric Administration, the National Science Foundation, the Department of Energy, and NASA.  
